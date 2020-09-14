@@ -1,0 +1,22 @@
+{
+  "name": "webpack-project",
+  "version": "1.0.0",
+  "description": "start a new project by webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HuiArroheily/webpack-project.git"
+  },
+  "author": "hui.wu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HuiArroheily/webpack-project/issues"
+  },
+  "homepage": "https://github.com/HuiArroheily/webpack-project#readme",
+  "devDependencies": {
+    "webpack": "^4.44.1"
+  }
+}
